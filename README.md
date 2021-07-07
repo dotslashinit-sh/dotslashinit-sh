@@ -1,4 +1,7 @@
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=0x000x000x02&&show_icons=true&&theme=tokyonight"/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0x000x000x02&&show_icons=true&&theme=tokyonight"/>
+</p>
+
 <br />
 <br />
 
@@ -10,7 +13,7 @@
   <img src="https://img.shields.io/badge/-C%23-4444ff?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
 
-<p align = "center"><img src="images/3703.gif"></p>
+
 
 <p align="center">My tools</p>
 <p align="center">
@@ -24,4 +27,8 @@
   <img src="https://img.shields.io/badge/-Linux-yellowgreen?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/-Windows%2010-blue?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="images/3703.gif">
 </p>
