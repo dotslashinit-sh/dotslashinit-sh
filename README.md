@@ -16,3 +16,10 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio-8010d0?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/-Intellij%20IDEA-101010?style=for-the-badge&logo=intellijidea&logoColor=white">
 </p>
+
+<p align="center">My platforms</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Linux-yellowgreen?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/-Windows%2010-blue?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android&logoColor=white">
+</p>
