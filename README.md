@@ -3,6 +3,11 @@
 </p>
 
 <br />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x000x000x02&&theme=dracula">
+</p>
+
 <br />
 
 <p align="center">I work in the following languages</p>
