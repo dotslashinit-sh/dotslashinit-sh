@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-  <img src="images/3703.gif">
+  <img src="images/712.gif">
 </p>
