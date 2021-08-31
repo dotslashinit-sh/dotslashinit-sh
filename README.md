@@ -20,13 +20,13 @@
 
 
 
-<p align="center">My tools</p>
-<p align="center">
+<div align="center">My tools</div>
+<div align="center">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/-Visual%20Studio-8010d0?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/-Intellij%20IDEA-101010?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/-Qt%20Creator-10d020?style=for-the-badge&logo=qt&logoColor=white">
-</p>
+</div>
 
 <p align="center">My platforms</p>
 <p align="center">
