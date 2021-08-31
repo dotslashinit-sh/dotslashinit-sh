@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="style.css">
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dotslashinit-sh&&show_icons=true&&theme=dracula"/>
 </div>
