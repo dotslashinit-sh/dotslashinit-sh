@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x000x000x02&&show_icons=true&&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dotslashinit-sh&&show_icons=true&&theme=dracula"/>
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x000x000x02&&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotslashinit-sh&&theme=dracula">
 </p>
 
 <br />
