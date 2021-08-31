@@ -47,6 +47,6 @@
   </p>
 </div>
 
-<figure align="center">
+<div align="center">
   <img src="images/3703.gif">
-</figure>
+</div>
