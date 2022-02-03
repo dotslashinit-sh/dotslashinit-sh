@@ -12,7 +12,7 @@
 
 <div align="center">
   <p>
-    I program in the following languages
+    I love these languages
   </p>
   <p>
     <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python&logoColor=white">
@@ -24,7 +24,7 @@
 
 <div align="center">
   <p>
-    My tools
+    My favourite tools
   </p>
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white">
@@ -36,7 +36,7 @@
 
 <div align="center">
   <p>
-    My platforms
+    My favourite platforms
   </p>
   <p>
     <img src="https://img.shields.io/badge/-Linux-yellowgreen?style=for-the-badge&logo=linux&logoColor=white">
