@@ -5,6 +5,9 @@
     <a href="https://www.hackerrank.com/dotslashconfig"><img src="./images/icons/hackerrank.svg" width="50" height="50" alt="Hackerrank"></a>
     <a href="mailto:abinr5501@gmail.com"><img src="./images/icons/email.svg" width="50" height="50" alt="Email"></a>
   </div>
+  <div float="center">
+    <img src="./images/115330.gif" alt="Bonjour">
+  </div>
 </div>
 
 <div align="center">
