@@ -1,4 +1,19 @@
 <div align="center">
+  <p>Hello there! My name is Dot, a 17 year old programmer. I love all about computers and technology, so hit me up if you are interested!</p>
+  <ul>
+    <li>
+      <a href="https://discord.gg/4fQ6XNSk7Q"><img src="./images/icons/discord.svg" width="50" height="50" alt="Discord Server"></a>
+    </li>
+    <li>
+      <a href="https://www.hackerrank.com/dotslashconfig"><img src="./images/icons/hackerrank.svg" width="50" height="50" alt="Hackerrank"></a>
+    </li>
+    <li>
+      <a href="mailto:abinr5501@gmail.com">E-Mail</a>
+    </li>
+  </ul>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dotslashinit-sh&&show_icons=true&&theme=dracula"/>
 </div>
 
@@ -12,7 +27,7 @@
 
 <div align="center">
   <p>
-    I love these languages
+    My favourite programming languages
   </p>
   <p>
     <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=Python&logoColor=white">
@@ -43,8 +58,4 @@
     <img src="https://img.shields.io/badge/-Windows%2010-blue?style=for-the-badge&logo=windows&logoColor=white">
     <img src="https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android&logoColor=white">
   </p>
-</div>
-
-<div align="center">
-  <img src="images/3703.gif">
 </div>
