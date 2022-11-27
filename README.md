@@ -1,25 +1,14 @@
 <div align="center">
   <p>Hello there! My name is Dot, a 17 year old programmer. I love all about computers and technology, so hit me up if you are interested!</p>
-  <ul>
-    <li>
+  <div float="center">
       <a href="https://discord.gg/4fQ6XNSk7Q"><img src="./images/icons/discord.svg" width="50" height="50" alt="Discord Server"></a>
-    </li>
-    <li>
       <a href="https://www.hackerrank.com/dotslashconfig"><img src="./images/icons/hackerrank.svg" width="50" height="50" alt="Hackerrank"></a>
-    </li>
-    <li>
-      <a href="mailto:abinr5501@gmail.com">E-Mail</a>
-    </li>
-  </ul>
+      <a href="mailto:abinr5501@gmail.com"><img src="./images/icons/email.svg" width="50" height="50" alt="Email"></a>
+    </div>
 </div>
 
-<div align="center">
+<div float="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dotslashinit-sh&&show_icons=true&&theme=dracula"/>
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotslashinit-sh&&theme=dracula">
 </div>
 
