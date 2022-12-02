@@ -12,11 +12,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dotslashinit-sh&&show_icons=true&&theme=dracula"/>
-  <br />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotslashinit-sh&&theme=dracula">
 </div>
 
-<br />
+<br>
 
 <div align="center">
     <p>My favourite programming languages, tools and platforms</p>
