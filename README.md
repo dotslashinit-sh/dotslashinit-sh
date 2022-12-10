@@ -8,6 +8,9 @@
     <a href="https://www.hackerrank.com/dotslashconfig" target="_blank"><img src="./images/icons/hackerrank.svg" width="50" height="50" alt="Hackerrank"></a>
     <a href="mailto:abinr5501@gmail.com" target="_blank"><img src="./images/icons/email.svg" width="50" height="50" alt="Email"></a>
   </div>
+  <div float="center">
+    <img src="./images/3703.gif" alt="Random gif">
+  </div>
 </div>
 
 <div align="center">
