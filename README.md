@@ -1,6 +1,6 @@
 # :supervillain_man: About Myself
 
-- Hey there! My name is Abhin (or Dot) and I am just another guy who's into tech:desktop_computer: and music :headphones:.
+- Hey there! My name is Dot and I am just another guy who's into tech:desktop_computer: and music :headphones:.
 
 - I love learning and solving problems based on mathematics :heavy_division_sign:, physics  :earth_asia: and logic :jigsaw: and developing applications based on them, like video games :video_game:, tiny game engines :space_invader: or cryptographic :man_technologist: applications.
 
