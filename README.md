@@ -1,14 +1,14 @@
-# :supervillain_man: About Myself
+# 🦹‍♂️ About Myself
 
-- Hey there! My name is Dot and I am just another guy who's into tech:desktop_computer: and music :headphones:.
+- Hey there! My name is Dot and I am just another guy who's into tech 🖥️ and music 🎵.
 
-- I love learning and solving problems based on mathematics :heavy_division_sign:, physics  :earth_asia: and logic :jigsaw: and developing applications based on them, like video games :video_game:, tiny game engines :space_invader: or cryptographic :man_technologist: applications.
+- I love learning and solving problems based on mathematics ➗, physics 📖 and logic 🧩 and developing applications based on them, like video games 🎮, tiny game engines 👾 or cryptographic 👨‍💻 applications.
 
-- I also spend time learning :books: and developing :microscope: different category of programs including video games :video_game:, AI / ML :robot:, physics simulators :game_die:, emulators, OSes and more.
+- I also spend time learning 📚 and developing 🔬 different category of programs including video games 🎮, AI / ML 🤖, physics simulators 🎲, emulators, OSes and more.
 
-- If you feel like hanging out with me, feel free to join my server! :smiley:
+- If you feel like hanging out with me, feel free to join my server! 😃
 
-- My skills :computer: (already proficient and currently learning):
+- My skills 💻 (already proficient and currently learning):
   <p align="center">
     <img src="https://skillicons.dev/icons?i=bash,git,github,powershell,vscode,c,cs,cpp,rust,py,html,css,md,js,ts,,deno,nodejs,dotnet,qt,tailwindcss,vue,wasm,regex,unity,godot">
   </p>
@@ -18,7 +18,7 @@
  <img src="./images/3703.gif" height="100">
 </p>
 
-# :link: Links:
+# 🔗 Links:
 
 <p align="center">
   <a href="https://discord.gg/s4JbsUPNZa" target="_blank">
@@ -35,7 +35,9 @@
   </a>
 </p>
 
-# :bar_chart: My Stats :
-
-![Metrics](https://metrics.lecoq.io/dotslashinit-sh?template=classic&languages=1&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)
-
+# 📊 My Stats :
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dotslashinit-sh&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"> <br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dotslashinit-sh&theme=vue-dark&hide_border=true"><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dotslashinit-sh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"><br/>
+</p>
