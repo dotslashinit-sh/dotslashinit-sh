@@ -15,7 +15,7 @@
 
 <p align="center">
  <img src="./images/216638.gif" height="100">
- <img src="./images/3703.gif" height="100">
+ <!--<img src="./images/3703.gif" height="100">-->
 </p>
 
 # 🔗 Links:
