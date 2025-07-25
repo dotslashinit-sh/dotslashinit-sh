@@ -10,7 +10,7 @@
 
 - My skills 💻 (already proficient and currently learning):
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=bash,git,github,powershell,vscode,c,cs,cpp,rust,py,html,css,md,js,ts,,deno,nodejs,dotnet,qt,tailwindcss,vue,wasm,regex,unity,godot">
+    <img src="https://skillicons.dev/icons?i=bash,git,github,powershell,vscode,c,cs,cpp,rust,py,html,css,md,js,ts,tailwindcss,vue,svelte,deno,nodejs,dotnet,qt,vue,wasm,regex,unity,godot">
   </p>
 
 <p align="center">
